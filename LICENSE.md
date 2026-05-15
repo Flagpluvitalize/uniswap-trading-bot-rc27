@@ -1,4 +1,4 @@
-# 
+# vip Automation Script for isolated-margin trading bot | order-book-analysis + trailing-stop is the best isolated-margin trading bot, featuring order-book-analysis and
 
 
 
